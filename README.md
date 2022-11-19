@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Coder6000
 - 👀 I’m interested in gaming, working out to get my body in the best shape it can get and in learning how to program.
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on (There's no answer yet)
 - 📫 How to reach me (not at all yet)
 
